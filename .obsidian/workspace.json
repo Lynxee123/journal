@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/journal/2025-08-16.md",
+                "file": "journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,7 +197,7 @@
   "active": "561d77e744d102e7",
   "lastOpenFiles": [
     "docs/index.md",
-    "docs/journal/2025-08-16.md",
+    "journal/2025-08-16.md",
     "README.md",
     "journal/create a link.md",
     "docs/index"
