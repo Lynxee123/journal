@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/journal/2025-08-16.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
+              "title": "index"
             }
           }
         ],
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "561d77e744d102e7",
+  "active": "0460ff5e125011ca",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/journal/2025-08-16.md",
+    "docs/index.md",
     "README.md",
     "journal/create a link.md",
     "docs/index"
