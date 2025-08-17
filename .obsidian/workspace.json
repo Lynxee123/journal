@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-16.md",
+                "file": "docs/journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0460ff5e125011ca",
+  "active": "561d77e744d102e7",
   "lastOpenFiles": [
     "docs/index.md",
-    "2025-08-16.md",
+    "docs/journal/2025-08-16.md",
     "README.md",
     "journal/create a link.md",
     "docs/index"
