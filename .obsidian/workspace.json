@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-08-16"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "0460ff5e125011ca",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "docs/index.md",
+    "Untitled.canvas",
     "docs/journal/2025-08-16.md",
     "README.md",
     "journal/create a link.md",
