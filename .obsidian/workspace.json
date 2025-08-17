@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/daily journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-08-16"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/journal/2025-08-16.md",
+                "file": "docs/daily journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1b980c3ef9db828",
+  "active": "561d77e744d102e7",
   "lastOpenFiles": [
-    "README.md",
     "docs/index.md",
-    "docs/journal/2025-08-16.md",
+    "README.md",
+    "docs/daily journal/2025-08-16.md",
     "Untitled.canvas",
     "journal/create a link.md",
     "docs/index"
