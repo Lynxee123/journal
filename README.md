@@ -1,4 +1,1 @@
-# journal
-Obsidian Journal
-
-testing 
+This is where I publish all of journals!
