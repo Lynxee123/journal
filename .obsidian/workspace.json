@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "Projects/Proxmox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Proxmox"
             }
           }
         ]
@@ -182,10 +182,10 @@
   },
   "active": "a6e31a40b63570a2",
   "lastOpenFiles": [
+    "docs/index.md",
     "README.md",
     "Projects/Proxmox.md",
     "assets",
-    "docs/index.md",
     "docs/Daily Journal/BTC/June 2025.md",
     "docs/Daily Journal/BMS",
     "docs/Daily Journal/BTC",
