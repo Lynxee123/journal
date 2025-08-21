@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects/Proxmox/1.0 Installation.md",
+                "file": "docs/Projects/Proxmox/What is Proxmox?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 Installation"
+              "title": "What is Proxmox?"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Projects/Proxmox/1.0 Installation.md",
+                "file": "docs/Projects/Proxmox/What is Proxmox?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.0 Installation"
+              "title": "Outline of What is Proxmox?"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "a6e31a40b63570a2",
   "lastOpenFiles": [
-    "docs/Projects/Proxmox/What is Proxmox?.md",
     "docs/Projects/Proxmox/1.0 Installation.md",
+    "docs/Projects/Proxmox/What is Proxmox?.md",
     "docs/Projects/Proxmox",
     "docs/Daily Journal/BTC/June 2025.md",
     "docs/index.md",
