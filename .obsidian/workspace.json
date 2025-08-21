@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects/Proxmox.md",
+                "file": "docs/Projects/Proxmox/What is Proxmox?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox"
+              "title": "What is Proxmox?"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "a6e31a40b63570a2",
   "lastOpenFiles": [
+    "docs/Projects/Proxmox",
     "docs/Daily Journal/BTC/June 2025.md",
-    "docs/Projects/Proxmox.md",
+    "docs/Projects/Proxmox/What is Proxmox?.md",
     "docs/index.md",
     "README.md",
     "assets",
