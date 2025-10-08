@@ -1,0 +1,2 @@
+# journal
+Obsidian Journal
