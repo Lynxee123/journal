@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/index.md",
+                "file": "publish/Guides/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SSH"
             }
           }
         ]
@@ -167,11 +167,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d51344cc3a1635bf",
+  "active": "09bf62737c386fd0",
   "lastOpenFiles": [
+    "publish/Guides/Proxmox.md",
+    "publish/Guides/SSH.md",
+    "publish/Journal/Date Time.md",
+    "publish/index.md",
     "publish/Journal",
     "publish/Guides",
-    "publish/index.md",
     "publish"
   ]
 }
