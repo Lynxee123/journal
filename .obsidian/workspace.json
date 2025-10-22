@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -167,10 +167,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d51344cc3a1635bf",
+  "active": "09bf62737c386fd0",
   "lastOpenFiles": [
-    "publish/Guides/SSH/SSH Introduction.md",
+    "publish/Guides/SSH/2.0 Import SSH keys.md",
     "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
+    "publish/Guides/SSH/SSH Introduction.md",
     "publish/Guides/SSH",
     "publish/Guides/Proxmox.md",
     "publish/index.md",
