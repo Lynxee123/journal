@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Guides/SSH/1.0 SSH Introduction.md",
+                "file": "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 SSH Introduction"
+              "title": "1.0 Generate and Add SSH Keys to Github"
             }
           }
         ]
@@ -167,11 +167,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "09bf62737c386fd0",
+  "active": "d51344cc3a1635bf",
   "lastOpenFiles": [
+    "publish/Guides/SSH/SSH Introduction.md",
+    "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
     "publish/Guides/SSH",
     "publish/Guides/Proxmox.md",
-    "publish/Guides/SSH/1.0 SSH Introduction.md",
     "publish/index.md",
     "publish/Journal/Test file.md",
     "publish/Journal/Date Time.md",
