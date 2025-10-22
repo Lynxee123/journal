@@ -4,7 +4,7 @@ tags:
 title: Welcome to my Journal
 ---
 ## Who am I?
-Heyo! My name is Lilian :)
+Heyo! My name is Lilian and welcome to my blog/journal :)
 
 I'm a student at Bellingham Technical College, making my way through the tech world. I love solving challenges and figuring out how things work—whether it’s through CTFs, homelabs, or experimenting with new tech. Lately, I’ve been diving into my Proxmox homelab, trying to wrap my head around Docker (ﾉಥ益ಥ)ﾉ. Beyond the technical side, I’m passionate about creating a more inclusive and welcoming space in IT, especially for women entering the field. I want to help break barriers and make tech a place where everyone feels like they belong!
 
