@@ -13,7 +13,13 @@ Some fun facts: I have a deep appreciation for ‘70s and ‘80s music—especia
 In my rare moments of non-tech-related productivity, I like to knit and bake bread, because having a backup plan as a sweater artisan and focaccia bread entrepenuer seems reasonable in this day and age (｡•̀ᴗ-)✧. I’m also teaching myself electric guitar, though at this rate, I should just stick with the techy stuff...
 
 ----
-#### Check out my other friends that also do and write cool things:
+### Communities
+- CascadeSTEAM
+- BLUG
+- Raspberry Pi Club
+
+----
+### Check out my other friends that also do and write cool things:
 - [Garth "TheNetYeti" Johnson](https://growlf.github.io/journal/) 
 - [Vivian Miller](https://itsvivianmill.github.io/journal/)  
 - [Ricky Monnik](https://rigunkes.github.io/obsidian-quartz-page/) 
