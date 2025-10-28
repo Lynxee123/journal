@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
+                "file": "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0 Import SSH keys (Debian Linux)"
+              "title": "2.0 Generate and Add SSH Keys to Github"
             }
           }
         ]
@@ -169,17 +169,18 @@
   },
   "active": "09bf62737c386fd0",
   "lastOpenFiles": [
+    "publish/Guides/SSH/1.0 SSH Introduction.md",
+    "publish/Guides/Obsidian/Creating a Github Journal.md",
+    "publish/Guides/Proxmox.md",
+    "publish/Guides/Obsidian",
+    "publish/Journal/Python/pygame.md",
     "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
     "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
-    "publish/Guides/SSH/1.0 SSH Introduction.md",
-    "publish/Journal/Python/pygame.md",
     "publish/Journal/Python",
     "publish/Journal/Date Time.md",
-    "publish/Guides/Untitled",
     "publish/Journal/Test file.md",
     "publish/index.md",
     "publish/Guides/SSH",
-    "publish/Guides/Proxmox.md",
     "publish/Journal",
     "publish/Guides",
     "publish"

@@ -1,0 +1,6 @@
+---
+tags:
+  - guide
+  - obsidian
+  - github
+---
