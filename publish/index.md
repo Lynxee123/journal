@@ -15,7 +15,7 @@ In my rare moments of non-tech-related productivity, I like to knit and bake bre
 ----
 ### Communities
 - CascadeSTEAM
-- BLUG
+- Bellingham Linux Users Groups (BLUG)
 - Raspberry Pi Club
 
 ----
