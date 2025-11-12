@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/index.md",
+                "file": "publish/Guides/Python/Project Setup (Ubuntu + VS Code).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Project Setup (Ubuntu + VS Code)"
             }
           }
         ]
@@ -157,30 +157,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "bases:Create new base": false
     }
   },
   "active": "09bf62737c386fd0",
   "lastOpenFiles": [
+    "publish/Guides/Obsidian/Creating a GitHub Journal.md",
+    "publish/Guides/Python/Project Setup (Ubuntu + VS Code).md",
     "publish/Guides/SSH/1.0 SSH Introduction.md",
-    "publish/index.md",
-    "publish/Guides/Obsidian/Creating a Github Journal.md",
+    "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
     "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
     "publish/Guides/Proxmox.md",
-    "publish/Guides/Obsidian",
+    "publish/Guides/Python",
     "publish/Journal/Python/pygame.md",
-    "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
-    "publish/Journal/Python",
-    "publish/Journal/Date Time.md",
     "publish/Journal/Test file.md",
+    "publish/Journal/Python",
     "publish/Guides/SSH",
+    "publish/Guides/Obsidian",
+    "publish/Journal/Date Time.md",
+    "publish/Guides/SSH.md",
+    "publish/index.md",
     "publish/Journal",
     "publish/Guides",
     "publish"
