@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Project Setup (Ubuntu + VS Code)"
             }
+          },
+          {
+            "id": "0080107824157d6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "09bf62737c386fd0",
+  "active": "0080107824157d6c",
   "lastOpenFiles": [
     "publish/Guides/Obsidian/Creating a GitHub Journal.md",
     "publish/Guides/Python/Project Setup (Ubuntu + VS Code).md",
