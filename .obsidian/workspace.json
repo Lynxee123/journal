@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2.0 Generate and Add SSH Keys to Github"
             }
+          },
+          {
+            "id": "0080107824157d6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "09bf62737c386fd0",
+  "active": "0080107824157d6c",
   "lastOpenFiles": [
     "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
     "publish/Guides/SSH/1.0 SSH Introduction.md",
