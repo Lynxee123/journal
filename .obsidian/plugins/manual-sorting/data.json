@@ -32,7 +32,11 @@
       "publish/Journal/Python"
     ],
     "publish/Journal/Internship Experience": [
-      "publish/Journal/Internship Experience/1.6.25.md"
+      "publish/Journal/Internship Experience/Family Care Network"
+    ],
+    "publish/Journal/Internship Experience/Family Care Network": [
+      "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 2 - Phones.md"
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"

@@ -2,6 +2,7 @@
 tags:
   - internship
   - fcn
+date: 1 / 8 / 26
 ---
 First thing of the day was provisioning new HP Poly VoIP phones, which weren't very difficult as the whole process was already streamlined. 
 
