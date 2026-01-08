@@ -28,7 +28,11 @@
       "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md"
     ],
     "publish/Journal": [
+      "publish/Journal/Internship Experience",
       "publish/Journal/Python"
+    ],
+    "publish/Journal/Internship Experience": [
+      "publish/Journal/Internship Experience/1.6.25.md"
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"
