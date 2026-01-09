@@ -13,5 +13,8 @@ Once those steps were successfully completed, the phone would show an extension 
 Also took a detour to get my blood drawn at Family Health Association to get tested for TB- even more fun! Unfortunately, because I was occupied with that, I missed out on going to the Blaine Clinic.
 
 While staying at the main office, I continued shadowing help desk phone calls. Some issues:
-- Problem with a scanner that was solved on its own. Turns out 
+- Problem with a scanner that was solved on its own. Turns out it was just paused. 
+- Locked account from too many miss typed passwords
+- Credit card payment not working in the Blaine office > was a driver issue
+	- remote into desktop > go to add and remove features > uninstall drivers > reinstall drivers using automation script
 
