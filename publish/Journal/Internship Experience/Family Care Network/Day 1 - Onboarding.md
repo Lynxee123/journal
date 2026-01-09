@@ -16,4 +16,5 @@ Learned about some of the various software and ticketing system that I haven't w
 
 Best part of the day was getting a whole tour of the place. Went through each department and met new people whom were very friendly. Family Care Network has a very chill and inviting space that's very comfortable to work in at the get go. 
 
-It was really cool seeing the machines that 
+It was really cool seeing the huge machines that test for COVID, influenza, etc. 
+
