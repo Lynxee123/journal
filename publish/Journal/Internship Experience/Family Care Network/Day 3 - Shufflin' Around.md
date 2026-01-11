@@ -1,7 +1,9 @@
 ---
 tags:
   - internship
+  - fcn
 date: 1 / 9 / 26
+hours: "8"
 ---
 Finished up on some new hire on-boarding this morning. 
 
@@ -18,3 +20,15 @@ It was interesting to see the step by step process of this. Using Microsoft Admi
 When Ryan attempted to delete the email, however, it became tricky- not due to Ryan, but because Microsoft just loves renaming and moving things around so that by the time you know where something is.... well, not anymore :P
 
 Solution? GTS! In the end, it was looking at good ol' Microsoft documentation and putting in some commands in Powershell. 
+
+-----
+Had a friday meeting at 2:15 to talk about various things. 
+- Some of us will be installing ~30 phones soon at Squalicum Family Medicine
+- Imaging CDs were being sent to IT - which will not be happening anymore lol
+- Reiterated taking adequate breaks and lunches
+- Got a fun FCN questionaire:
+	- Dog or Cat person?
+	- Apple or Android?
+	- Burger, Pizza, or Both?
+Safe to say, i think i passed that with flying colors.
+

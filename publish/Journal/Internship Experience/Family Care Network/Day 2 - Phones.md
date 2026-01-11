@@ -3,6 +3,7 @@ tags:
   - internship
   - fcn
 date: 1 / 8 / 26
+hours: "4"
 ---
 First thing of the day was provisioning new HP Poly Edge VoIP phones, which weren't very difficult as the whole process was already streamlined. 
 

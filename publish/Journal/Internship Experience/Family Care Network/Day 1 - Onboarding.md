@@ -3,6 +3,7 @@ tags:
   - internship
   - fcn
 date: 1 / 6 / 26
+hours: "4"
 ---
 Today was the first day of the internship as an IT intern at Family Care Network. 
 
