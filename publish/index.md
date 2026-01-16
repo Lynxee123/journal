@@ -10,13 +10,14 @@ I'm a student at Bellingham Technical College, making my way through the tech wo
 
 Some fun facts: I have a deep appreciation for ‘70s and ‘80s music—especially rock, metal, and new wave. Rush, in particular, is the greatest band of all time (and I will debate this). When I’m not combing through a band's entire discography, I’m probably watching one of my comfort shows/movies. I have a soft spot for anything science fiction or historical—Doctor Who and Pride & Prejudice being personal favorites. ♡ ～('▽^人)
 
-In my rare moments of non-tech-related productivity, I like to knit and bake bread, because having a backup plan as a sweater artisan and focaccia bread entrepenuer seems reasonable in this day and age (｡•̀ᴗ-)✧. I’m also teaching myself electric guitar, though at this rate, I should just stick with the techy stuff...
+In my rare moments of non-tech-related productivity, I like to knit and bake bread, because having a backup plan as a sweater artisan and focaccia bread entrepreneur seems reasonable in this day and age (｡•̀ᴗ-)✧. I’m also teaching myself electric guitar, though at this rate, I should just stick with the techy stuff...
 
 ----
 ### Communities
-- CascadeSTEAM
-- Bellingham Linux Users Groups (BLUG)
+- [CascadeSTEAM](https://cascadesteam.org/)
 - Raspberry Pi Club
+- [LinuxFest Northwest](https://lfnw.org/) (LFNW)
+- Bellingham Linux Users Groups (BLUG)
 
 ----
 ### Check out my other friends that also do and write cool things:

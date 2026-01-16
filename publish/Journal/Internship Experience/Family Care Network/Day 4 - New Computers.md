@@ -5,7 +5,7 @@ tags:
 date: 1 / 13 / 26
 hours: "4"
 ---
-Fiber issues last night, but wasn't there for that. 
+Fiber issues last night, but wasn't there for that. The team couldn't too much about it 
 
 In with the new, out with the old! Today, we got some new Dell laptops to configure. 
 
@@ -58,5 +58,5 @@ Gotta add the new workstation if not found
 ## Retired devices
 Went through the process of retiring some laptops because it wasn't working anymore/there were issues. It was pretty simple- mostly documentation. 
 
-Basically removing the device from AD, Kuiper, spreadsheet, etc. When that was done, I removed the SSD from the laptop
+Basically removing the device from AD, Kuiper, spreadsheet, etc. When that was done, I removed the SSD from the laptop and popped it in the E-waste drawer.
 
