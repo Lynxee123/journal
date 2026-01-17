@@ -15,3 +15,4 @@ At NSFM, we replaced a printer. There was an issue (who woulda guessed) and it c
 
 After the printer, we then moved to the network closet and started cleaning it up. There were some ports that had patch cables connected to it, but hadn't been used in months. I was on the ladder removing the cables from the unused switch ports my coworker verified through the Cisco Meraki interface. 
 
+When we got back, our sys admin showed the VMs they use, hosted on VMware. 
