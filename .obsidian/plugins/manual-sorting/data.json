@@ -17,15 +17,15 @@
       "publish/Guides/Proxmox.md"
     ],
     "publish/Guides/Obsidian": [
-      "publish/Guides/Obsidian/Creating a Github Journal.md"
+      "publish/Guides/Obsidian/Creating a GitHub Journal.md"
     ],
     "publish/Guides/Python": [
       "publish/Guides/Python/Project Setup (Ubuntu + VS Code).md"
     ],
     "publish/Guides/SSH": [
-      "publish/Guides/SSH/1.0 SSH Introduction.md",
-      "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
-      "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md"
+      "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
+      "publish/Guides/SSH/2.0 Import SSH keys (Debian Linux).md",
+      "publish/Guides/SSH/SSH Introduction.md"
     ],
     "publish/Journal": [
       "publish/Journal/Python"
