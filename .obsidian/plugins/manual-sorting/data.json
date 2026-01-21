@@ -23,12 +23,27 @@
       "publish/Guides/Python/Project Setup (Ubuntu + VS Code).md"
     ],
     "publish/Guides/SSH": [
-      "publish/Guides/SSH/1.0 Generate and Add SSH Keys to Github.md",
-      "publish/Guides/SSH/2.0 Import SSH keys (Debian Linux).md",
-      "publish/Guides/SSH/SSH Introduction.md"
+      "publish/Guides/SSH/1.0 SSH Introduction.md",
+      "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
+      "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md"
     ],
     "publish/Journal": [
+      "publish/Journal/Internship Experience",
       "publish/Journal/Python"
+    ],
+    "publish/Journal/Internship Experience": [
+      "publish/Journal/Internship Experience/Family Care Network"
+    ],
+    "publish/Journal/Internship Experience/Family Care Network": [
+      "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 2 - Provisioning Phones.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 3 - Shufflin' Around.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 1 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
+      "publish/Journal/Internship Experience/Family Care Network/Untitled.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md"
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"

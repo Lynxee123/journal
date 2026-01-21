@@ -1,0 +1,3 @@
+This week gave me a great look at how Family Care Network manages its IT resources and staff. I noticed that they prioritize **standardization** to make sure routine hardware tasks are handled quickly and without errors. By having these processes down to a science, the team avoids getting bogged down in the basics.
+
+I also learned that managing IT challenges requires a lot of flexibility. Seeing a senior admin pivot to PowerShell when the Microsoft interface changed showed me that being a problem solver is more important than just memorizing a menu. The culture here seems to value both security and people. They are proactive about threats but also very focused on staff well-being.
