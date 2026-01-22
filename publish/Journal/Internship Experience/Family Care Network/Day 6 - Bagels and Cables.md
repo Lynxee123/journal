@@ -5,14 +5,10 @@ tags:
 date: 1 / 16 / 26
 hours: "8"
 ---
-Started off the day with a morning meeting with bagels! Everyone just went around and said one or two things that they were already/going to work on for the day. 
+We started the morning with a team meeting and bagels! The best way to start a day. Everyone gave a quick update on their projects, and then it was off to the clinics.
 
-Went to two clinics today: SFM and NSFM. 
+First, we hit SFM to finish those phone installs. We used the extension cords to bridge the gap where the office layout was a bit poorly designed for tech. After that, we moved to NSFM to replace a printer. Naturally, there was an issue: it wouldn't ping. We ended up deleting the existing DHCP reservation and creating a new one with a different IP host number, which cleared it right up.
 
-At SFM, we had to put in some extension for the power coords bc some of the phones we installed on [[Day 5 - Installation Station | Day 5]] were limited because it was poorly designed. 
+The rest of the afternoon was spent in the network closet doing some much-needed cable management. There were several ports with patch cables connected that hadn't been used in months. My coworker used the Cisco Meraki interface to verify which ports were inactive, while I stayed on the ladder pulling the "ghost" cables out to clean up the rack.
 
-At NSFM, we replaced a printer. There was an issue (who woulda guessed) and it couldn't be pinged. The solution was to delete the existing dhcp reservation and make a new one with a different IP host number. 
-
-After the printer, we then moved to the network closet and started cleaning it up. There were some ports that had patch cables connected to it, but hadn't been used in months. I was on the ladder removing the cables from the unused switch ports my coworker verified through the Cisco Meraki interface. 
-
-When we got back, our sys admin showed the VMs they use, hosted on VMware. 
+To wrap up the week, our System Admin showed me the virtual machines they use, which are hosted on VMware/vSphere. It's impressive to see how much of the network actually lives on a few powerful servers.

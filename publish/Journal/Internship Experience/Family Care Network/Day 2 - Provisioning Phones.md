@@ -5,17 +5,9 @@ tags:
 date: 1 / 8 / 26
 hours: "4"
 ---
-First thing of the day was provisioning new HP Poly Edge VoIP phones, which weren't very difficult as the whole process was already streamlined. 
+First thing this morning was provisioning new HP Poly Edge VoIP phones. It wasn't very difficult since the team already has the whole process streamlined.
 
-Quite simply unboxing the phones, connecting the phone piece to the main machine, and then attaching the machine to a PoE cord to start booting up and configuring it. The configuration was quite easy: just connecting it to WiFi and going through the settings, similar to if you were updating your iPhone. 
+The workflow is simple. You unbox the phone, connect the handset, and plug the main unit into a PoE cord to boot it up. The configuration is easy because it is just connecting to the network and clicking through settings like you would on an iPhone. Once the phone shows its assigned extension, we print a label for the back and package it back up for delivery. We knocked out two full boxes today.
 
-Once those steps were successfully completed, the phone would show an extension number that we'd print out using a label maker and slap that on the back of the phone. package the phone back up for delivery and that's it. all in all, we provisioned 2 boxes of phones- very fun!
-
-Also took a detour to get my blood drawn at Family Health Association to get tested for TB- even more fun! Unfortunately, because I was occupied with that, I missed out on going to the Blaine Clinic.
-
-While staying at the main office, I continued shadowing help desk phone calls. Some issues:
-- Problem with a scanner that was solved on its own. Turns out it was just paused. 
-- Locked account from too many miss typed passwords
-- Credit card payment not working in the Blaine office > was a driver issue
-	- remote into desktop > go to add and remove features > uninstall drivers > reinstall drivers using automation script
+I had to take a quick detour to the Family Health Association to get my blood drawn for a TB test. Unfortunately, that meant I missed the trip out to the Blaine Clinic. While I stayed back at the main office, I kept shadowing help desk calls. A few highlights included a scanner "malfunction" that was actually just paused and a locked account from a few too many mistyped passwords. We also fixed a credit card terminal issue at the Blaine office by remoting in and running an automation script to reinstall the drivers.
 

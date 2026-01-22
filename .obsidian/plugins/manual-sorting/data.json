@@ -3,7 +3,8 @@
     "/": [
       "publish",
       "LICENSE",
-      "README.md"
+      "README.md",
+      "Untitled.md"
     ],
     "publish": [
       "publish/Guides",
@@ -35,12 +36,15 @@
       "publish/Journal/Internship Experience/Family Care Network"
     ],
     "publish/Journal/Internship Experience/Family Care Network": [
-      "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 2 - Provisioning Phones.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 3 - Shufflin' Around.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 1 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
-      "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md"
+      "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md"
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"

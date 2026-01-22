@@ -5,39 +5,10 @@ tags:
 date: 1 / 15 / 26
 hours: "5.5"
 ---
-Pretty light in the beginning of the day. Ryan updated us that there was another fiber issue last night- wow two in a row that we missed out :P
+Apparently, the fiber gods are angry this week. Ryan updated us on another outage. This time, an excavator hit a support line, which lost tension and the fiber line got sucked into a tree. When the fire department showed up, they just cut the fiber line to get it out of the way. It’s a clean rip, but it’s all fixed now! We talked a bit about fiber splicing and how the clinics all point "upstream" to our main data center.
 
+Back at the clinic, there was a classic help desk moment. A user called about a printer and mentioned they tried to "shake the drum unit" to fix it. Please, don't shake the printer parts! 
 
-Construction accidentally hit the support line that held up the fiber lines with an excavator and the fiber lost the tension and got sucked into a tree. The support line fell onto the road 
+I spent the rest of the afternoon doing some light hardware installs: a new docking station and a new monitor.
 
-
-
-so when fire department came in, they cut the fiber because it was easier. 
-
-This time it was because there was a broken tree that was reported to the fire department. 
-
-They cut the supporting wire that held the fiber cable to 
-
-This time it was because there was a broken tree that was reported to be removed and when firefighters were called in, they accidentally cut a fiber line clean rip. But it's all fixed now yay!
-
-fiber splicers, what does it mean to splice?
-
-fiber upstream, downstream for the transceivers 
-- There's a data center and all the clinics point upstream to it
-		- 
-
-There was a help desk call about a printer and the person said they attempted to shake the drum unit of the printer oml.
-
-Went around the clinic:
-- installed a new docking station
-- installed new monitor
-
------
-
-At 5 PM, a team of us went to install the new poly phones at Squalicum Family Medicine. We were given a map of the office and it was 30 new phones to install.
-
-
-
-with the front desk being wired and the rest wireless 
-
-There were some issues. 
+At 5 PM, the team headed to Squalicum Family Medicine (SFM) to install those 30 new Poly phones I provisioned earlier. We had a map of the office and went to work. The front desk was wired up easily, but we ran into some snags in other areas where PoE wasn't available or the desks were just in hard-to-reach places. We’ll have to head back tomorrow with extension cords to finish the job.
