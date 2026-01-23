@@ -3,7 +3,7 @@ tags:
   - internship
   - fcn
 date: 1 / 13 / 26
-hours: "4"
+hours: "4.5"
 ---
 I missed out on some fiber cable drama last night, though it sounds like there wasn't much the internal team could do about it anyway. Instead, I spent the day getting on with the new and out with the old. We had a batch of new Dell laptops to configure using Windows Deployment via Intune.
 
