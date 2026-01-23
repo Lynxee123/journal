@@ -1,6 +1,7 @@
 {
   "customOrder": {
     "/": [
+      "Pasted image 20260123150026.png",
       "publish",
       "LICENSE",
       "README.md"
@@ -31,7 +32,7 @@
     "publish/Guides/Tailscale": [
       "publish/Guides/Tailscale/1.0 Tailscale Introduction.md",
       "publish/Guides/Tailscale/2.0 Installation.md",
-      "publish/Guides/Tailscale/Untitled.md"
+      "publish/Guides/Tailscale/3.0 Creating a Tailscale Connection.md"
     ],
     "publish/Journal": [
       "publish/Journal/Internship Experience",
@@ -51,7 +52,8 @@
       "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 8 - Phones and Switches Pt.2.md",
-      "publish/Journal/Internship Experience/Family Care Network/Day 9 -.md"
+      "publish/Journal/Internship Experience/Family Care Network/Day 9 - Help Desk.md",
+      "publish/Journal/Internship Experience/Family Care Network/Untitled.md"
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"
