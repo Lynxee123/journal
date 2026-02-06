@@ -16,4 +16,4 @@ Derrick said that a shared excel document with 4 sheets should be created.
 - report call issues, extension, time, what the report was
 - the other two are the same for the other clinic
 
-Hindsight - the phones should've been all wired in but that costs quite a bit per lin
+Hindsight - the phones should've been all wired in but that costs quite a bit per line.
