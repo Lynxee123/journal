@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
+                "file": "publish/Journal/Internship Experience/Family Care Network/Day 14 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4 - New Computers"
+              "title": "Day 14 -"
+            }
+          },
+          {
+            "id": "7f92f98457dcb8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publish/Journal/Internship Experience/Family Care Network/Day 18 -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 18 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,24 +182,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4f14a02c83f2716e",
+  "active": "7f92f98457dcb8b4",
   "lastOpenFiles": [
-    "publish/Guides/SSH/1.0 SSH Introduction.md",
-    "Pasted image 20260123150026.png",
     "publish/Journal/Internship Experience/Family Care Network/Day 17 - Emailing PMs.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 16 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 5 Reflection.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 15 - Safety Walk.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 14 -.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 13 -.md",
-    "publish/Journal/Internship Experience/Family Care Network/Week 5 Reflection.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 13 - Keyboards.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 4 Reflection.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 12 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 11 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 18 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
+    "publish/Guides/SSH/1.0 SSH Introduction.md",
+    "Pasted image 20260123150026.png",
     "publish/Journal/Internship Experience/Family Care Network/Day 9 - Help Desk.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 8 - Phones and Switches Pt.2.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md",
     "publish/Journal/Internship Experience/Family Care Network/Week 3 Reflection.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 10 - Goin' Down to Lynden.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 11 -.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 12 -.md",
-    "publish/Journal/Internship Experience/Family Care Network/Week 4 Reflection.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
     "publish/Journal/Internship Experience/Family Care Network/Untitled",
     "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
@@ -196,7 +213,6 @@
     "publish/Guides/Tailscale",
     "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
     "publish/Journal/Internship Experience/Family Care Network",
     "publish/Journal/Internship Experience",
     "publish/Guides/Python",
