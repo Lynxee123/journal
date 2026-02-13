@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bac1a5373dd317fa",
+        "id": "c855b065969e2bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "0080107824157d6c",
+            "id": "4f14a02c83f2716e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Day 8 - Phones and Switches Pt.2.md",
+                "file": "publish/Journal/Internship Experience/Family Care Network/Day 17 - Emailing PMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 8 - Phones and Switches Pt.2"
-            }
-          },
-          {
-            "id": "34309b40ffd336cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Day 14 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 14 -"
-            }
-          },
-          {
-            "id": "df500be8a570fcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Week 5 Reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 5 Reflection"
+              "title": "Day 17 - Emailing PMs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +167,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d51344cc3a1635bf",
+  "active": "4f14a02c83f2716e",
   "lastOpenFiles": [
+    "publish/Journal/Internship Experience/Family Care Network/Day 17 - Emailing PMs.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 16 -.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 15 - Safety Walk.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 14 -.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 13 -.md",
@@ -225,8 +198,6 @@
     "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 2 - Provisioning Phones.md",
-    "Untitled.md",
-    "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
     "publish/Journal/Internship Experience/Family Care Network",
     "publish/Journal/Internship Experience",
     "publish/Guides/Python",
