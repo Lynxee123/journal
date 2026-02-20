@@ -8,6 +8,7 @@ hours: "4.5"
 - Re-image computers that corrupted 
 	- One of the computers, when trying to install windows, there wasn't the main partition showing up > solve: checked the sata configuration bios setting and it was on the RAID option and switched it to AHCI mode.
 	- Make tickets for the imaged and re-imaged computers
+- Helped IT manager install his new monitor... and then helped him go back to his original setup.
 - Check up on remote computers that need to be updated
 - Visited FHA for IT support
 	- Installed new workstation
