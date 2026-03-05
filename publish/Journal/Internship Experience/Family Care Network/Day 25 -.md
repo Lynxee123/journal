@@ -74,7 +74,14 @@ VIR DAY TO DAY
 - Tenable Nessus (endpoint management)
 - Checklists
 - Support Logs (SLGs)
+- Current Projects
+	- Web BLOB storage
+	- Citrix Netscaler ADC (Load balancer)
 
+### Citrix Netscaler
+- implement rate limiting
+- in a high availability pair, but need to make something for DoS attacks
+- 
 
 KUIPER DASHBOARD
 
@@ -91,4 +98,8 @@ tiered storage based on interaction time, after certain amount of time, storage 
 
 Audit
 - third party
-- pentesting and give them reports
+- pentesting and give them reports (RSM)
+
+
+good summary:
+tech support is the best :)
