@@ -1,12 +1,3 @@
-<<<<<<< HEAD
----
-tags:
-  - internship
-  - fcn
----
-
-This week was a deep dive into how Family Care Network manages IT resources and infrastructure. One thing that really impressed me was the security strategy behind their laptop deployment. By using Intune and custom answerfiles to "brick" stolen devices, they protect their hardware investment and patient data simultaneously. It shows they aren't just thinking about how to get a computer to work, but how to manage its entire lifecycle—from the moment it's unboxed to the moment I pull the SSD for e-waste.
-=======
 This week was a deep dive into how Family Care Network manages IT resources and infrastructure. One thing that really impressed me was the security strategy behind their laptop deployment. By using Intune and custom answerfiles to brick stolen devices, they protect their hardware investment and patient data simultaneously. It shows they aren't just thinking about how to get a computer to work, but how to manage its entire lifecycle—from the moment it's unboxed to the moment I pull the SSD for e-waste.
 >>>>>>> fea23337298c2a0febd0dbaa57539c92c798bcf3
 
