@@ -1,10 +1,12 @@
 {
   "customOrder": {
     "/": [
-      "Pasted image 20260123150026.png",
       "publish",
       "LICENSE",
-      "README.md"
+      "Pasted image 20260123150026.png",
+      "README.md",
+      "Untitled.md",
+      "Untitled 1.md"
     ],
     "publish": [
       "publish/Guides",
@@ -12,10 +14,10 @@
       "publish/index.md"
     ],
     "publish/Guides": [
-      "publish/Guides/Tailscale",
       "publish/Guides/Obsidian",
       "publish/Guides/Python",
       "publish/Guides/SSH",
+      "publish/Guides/Tailscale",
       "publish/Guides/Proxmox.md"
     ],
     "publish/Guides/Obsidian": [
@@ -42,56 +44,43 @@
       "publish/Journal/Internship Experience/Family Care Network"
     ],
     "publish/Journal/Internship Experience/Family Care Network": [
-<<<<<<< HEAD
-      "publish/Journal/Internship Experience/Family Care Network/Day 28 -.md",
-=======
-      "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
->>>>>>> 1a5b7ffe79a5994fe447ab03dbfd3936a2182203
       "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 2 - Provisioning Phones.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 3 - Shufflin' Around.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 1 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
-<<<<<<< HEAD
-      "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md"
-=======
-      "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 8 - Phones and Switches Pt.2.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 9 - Help Desk.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 3 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 10 - Goin' Down to Lynden.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 11 - Phones.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 12 - Switches.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 4 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 13 - Keyboards.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 14 - Study Time.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 15 - Safety Walk.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 5 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 16 - Study Time.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 17 - Emailing PMs.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 18 - Jumpin' around.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 6 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 19 - More Computers.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 20 - Computer Re-image.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 21 - Tracking.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 22 - Saturday Phones.md",
-      "publish/Journal/Internship Experience/Family Care Network/Week 7 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 23 - Monitors Galore.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 24 -.md",
-<<<<<<< HEAD
-      "publish/Journal/Internship Experience/Family Care Network/Week 8 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 25 - SO MANY PHONESS.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 26 - Shadowing.md",
       "publish/Journal/Internship Experience/Family Care Network/Day 27 - Data Center.md",
+      "publish/Journal/Internship Experience/Family Care Network/Day 28 -.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 1 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 3 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 4 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 5 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 6 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 7 Reflection.md",
+      "publish/Journal/Internship Experience/Family Care Network/Week 8 Reflection.md",
       "publish/Journal/Internship Experience/Family Care Network/Week 9 Reflection.md"
-=======
-      "publish/Journal/Internship Experience/Family Care Network/Day 27.md",
-      "publish/Journal/Internship Experience/Family Care Network/Day 26 -.md"
->>>>>>> fea23337298c2a0febd0dbaa57539c92c798bcf3
->>>>>>> 1a5b7ffe79a5994fe447ab03dbfd3936a2182203
     ],
     "publish/Journal/Python": [
       "publish/Journal/Python/pygame.md"
