@@ -3,6 +3,7 @@ tags:
   - internship
   - fcn
 date: 3 / 5 / 26
+hours: "4.5"
 ---
 shadowing VIr
 

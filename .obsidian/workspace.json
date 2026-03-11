@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78a2dd44ac8d7439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Day 26 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 26 -"
-            }
-          },
-          {
             "id": "6847d251e8169d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Journal/Internship Experience/Family Care Network/Day 25 - SO MANY PHONESS.md",
+                "file": "publish/Journal/Internship Experience/Family Care Network/Day 28 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 25 - SO MANY PHONESS"
+              "title": "Day 28 -"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,14 @@
   },
   "active": "6847d251e8169d16",
   "lastOpenFiles": [
-    "publish/Journal/Internship Experience/Family Care Network/Day 24 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 8 Reflection.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 25 - SO MANY PHONESS.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 26 - Shadowing.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 28 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 27 - Data Center.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 9 Reflection.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 24 -.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 23 - Monitors Galore.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 26 -.md",
     "publish/Journal/Internship Experience/Family Care Network/Week 6 Reflection.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 14 - Study Time.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 13 - Keyboards.md",
@@ -206,11 +195,7 @@
     "publish/Journal/Internship Experience/Family Care Network/Day 21 - Tracking.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 19 - More Computers.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 17 - Emailing PMs.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 15 - Safety Walk.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
-    "publish/Guides/SSH/1.0 SSH Introduction.md",
     "Pasted image 20260123150026.png",
-    "publish/Journal/Internship Experience/Family Care Network/Day 9 - Help Desk.md",
     "publish/Journal/Internship Experience/Family Care Network/Untitled",
     "publish/Guides/Tailscale",
     "publish/Journal/Internship Experience/Family Care Network",
