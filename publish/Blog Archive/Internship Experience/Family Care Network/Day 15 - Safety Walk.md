@@ -12,4 +12,4 @@ There have also been issues on imaging getting sent to IT again. Going to start 
 
 - safety walk 
 - blizzards :P
-- 
+- had to leave early
