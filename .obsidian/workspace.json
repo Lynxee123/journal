@@ -60,9 +60,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "cb2624a5a2bfc33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,8 +222,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "df85bddee6a8e160",
+  "active": "cb2624a5a2bfc33e",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 9 Reflection.md",
+    "publish/Journal/Internship Experience/Family Care Network/Week 8 Reflection.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 28 -.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 27 - Data Center.md",
+    "publish/Journal/Internship Experience/Family Care Network/Day 26 - Shadowing.md",
+    "Untitled 1.md",
     "publish/Journal/Internship Experience/Family Care Network/Week 2 Reflection.md",
     "Untitled.md",
     "publish/Journal/Internship Experience/Family Care Network/Week 1 Reflection.md",
@@ -231,13 +252,6 @@
     "publish/Journal/Internship Experience/Family Care Network/Day 2 - Provisioning Phones.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 1 - Onboarding.md",
     "publish/Journal/Internship Experience/Family Care Network/Day 7 - Phones and Switches.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 5 - Installation Station.md",
-    "publish/index.md",
-    "publish/Guides/SSH/1.0 SSH Introduction.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 6 - Bagels and Cables.md",
-    "publish/Journal/Internship Experience/Family Care Network/Day 4 - New Computers.md",
-    "publish/Guides/SSH/3.0 Import SSH keys (Debian Linux).md",
-    "publish/Guides/SSH/2.0 Generate and Add SSH Keys to Github.md",
     "publish/Journal/Internship Experience/Family Care Network",
     "publish/Journal/Internship Experience",
     "publish/Guides/Python",
