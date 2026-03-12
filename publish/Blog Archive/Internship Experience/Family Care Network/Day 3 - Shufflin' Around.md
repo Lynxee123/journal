@@ -5,21 +5,13 @@ tags:
 date: 1 / 9 / 26
 hours: "8"
 ---
-I finished the last of my new-hire onboarding this morning and then headed over to the Family Health Association (FHA) building. I helped move some computer setups to a different room. It was standard IT work involving a lot of plugging in monitors, keyboards, and mice.
+I wrapped up the last of my new-hire onboarding this morning, which meant it was finally time to get out of the building and do something. First stop: the Family Health Association. The mission? Moving computer setups to a different room. Not exactly the most glamorous work, but there is something weirdly satisfying about getting a whole workstation untangled, relocated, and plugged back in perfectly. Monitors, keyboards, mice, the works. Humble work, but it counts.
 
-Later, I shadowed the System Admin, Ryan. He introduced me to the Microsoft Admin Center, specifically Entra, Intune, and Purview. He showed me the procedure for when a spam email is sent to someone (in this case it was to Derrick, the IT Manager). The goal is to delete the email remotely. Even if a user says they deleted it, we have to verify if it was sent to anyone else to ensure it’s wiped from every inbox. We don’t leave security to chance.
+The real highlight of the day came when I got to shadow Ryan, the System Admin. He pulled back the curtain on the Microsoft Admin Center, specifically Entra, Intune, and Purview, and walked me through what happens when a spam email lands in someone's inbox. In this case, the lucky recipient was Derrick, the IT Manager himself. The goal is simple in theory: delete it remotely. But the catch is you can't just take the user's word that they deleted it. You have to verify whether it was sent to anyone else and make sure it's wiped from every inbox. We don't leave security to chance.
 
-**The process was interesting to watch:**
-1. Filter for all emails sent to the user during that specific time frame
-2. Identify the exact spam message
-3. Run a wider search to see if any other users received it
+The process was actually really interesting to watch. You filter for all emails sent to the user in that specific time window, identify the exact message, then run a broader search to see if anyone else got it too. Clean and methodical. Except then the unexpected happens: Microsoft decides to change their UI again! Truly every tech's nightmare. 
 
-When Ryan tried to execute the delete, things got a bit tricky. Microsoft loves to rename and move menus around frequently. By the time you memorize where a tool is, they have often moved it. 
+Ryan went to execute the delete and the menu had moved. Again. Apparently this is just a regular occurrence because by the time you memorize where a tool lives, it's already packed up and relocated. The solution was to pull up the latest documentation and finish the job through PowerShell instead. Yippee for adaptability!
 
-The solution? GTS! We pulled up the latest documentation and used PowerShell to finish the job via the command line.
-
-We wrapped up the week with a team meeting. Some notes:
-- We are installing about 30 phones at Squalicum Family Medicine
-- Got asked some fun initiation questions:
-	- Dog or Cat? Apple or Android? Burger or Pizza? I'm pretty sure I passed that with flying colors :)
+We closed out the week with a team meeting. Big news: we're installing about 30 phones at Squalicum Family Medicine, so that provisioning work from Thursday is about to pay off. I also got hit with the real initiation questions: Dog or cat? Apple or Android? Burger or pizza? I wasn't quite familiar with that type of interview style, but it's safe to say I passed with flying colors. 
 

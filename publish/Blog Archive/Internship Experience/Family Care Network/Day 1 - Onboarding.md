@@ -5,9 +5,9 @@ tags:
 date: 1 / 6 / 26
 hours: "4.5"
 ---
-Today was my first day as an IT intern at Family Care Network. I kicked things off by getting my name badge and getting my work email sorted. After finishing the online orientation, I got to meet most of the IT team.
+First days are always a little nerve-wracking. New faces, new badge, new email password you'll definitely forget by the end of the week. But walking into Family Care Network for the first time as an official IT intern? Honestly, not bad.
 
-I spent some time shadowing a coworker on the help desk to learn about the types of calls they get. One interesting call was about an EKG machine not working—definitely not your typical computer fix. I also started learning about the various software and the ticketing system, I haven't worked with them yet, but I will soon.
+After getting my bearings with online orientation, I got to meet most of the IT team and immediately felt like I'd landed somewhere with good vibes. Then came the shadowing, sitting in on help desk calls to get a feel for what actually comes through the queue. Most calls are what you'd expect, but then one came in about an EKG machine not working, and I thought, _okay, so we're doing that kind of IT._ Healthcare tech hits different.
 
-The best part of the day was the full tour of the place. We went through every department and met a lot of new people who were all very friendly. Family Care Network has a very chill and inviting space that felt comfortable to work in right from the start. It was also really cool seeing the huge machines they use to test for COVID, influenza, and other labs.
+The highlight of the day was easily the full facility tour. We walked through every department, met what felt like a hundred friendly people, and I got to see the lab equipment they use to test for COVID, flu, and more. Those machines are _massive_! The whole place has this warm, welcoming energy that made it feel a lot less intimidating.
 
