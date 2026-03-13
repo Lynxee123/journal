@@ -9,7 +9,7 @@ shadowing VIr
 
 Components:
 - Kuiper
-	- doesn't see anything  that isn't EPIC
+	- doesn't see anything that isn't EPIC
 - Citrix
 - VSphere
 - SystemPulse
