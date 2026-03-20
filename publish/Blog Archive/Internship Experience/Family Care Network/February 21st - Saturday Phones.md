@@ -5,12 +5,10 @@ tags:
 date: 2 / 21 / 26
 hours: "4.5"
 ---
-Usually we don't work on the weekend, but today we're installing new phones and switches at FHA, so we need the downtime. Doin it in the morning!
+Usually we don't work on the weekends, but FHA phone and switch installation needed to happen during downtime to avoid disrupting the clinic. So we traded in a Saturday morning sleep-in for an early start!
 
-- Installed 39 total phones at FHA
-- Took out all of the switches (3 total), installed 2 switches
-	- Cleaned up a BUNCH of ghost cables
-	- The switches we replaced the setup with have PoE which is a great investment because our goal is to have the phone at the clinics to all be wired, and it's easier if they get their power in addition to their connection in one cable
-	- The two switches are connected to each other with stack cables - so they're essentially one big switch
-	- Ryan (sysadmin) did the switch and dns configs like pointing to the new ip
-- The PM at FHA got us donuts :)
+39 phones later, FHA was fully upgraded. Same process we've had dialed in for weeks now, but it never gets old watching a clinic go from old hardware to a clean new setup.
+
+The bigger project was the switches. We pulled out all three of the existing ones and replaced them with two brand new PoE capable units, and along the way cleared out a truly impressive collection of ghost cables. You know the ones, cables that are plugged in on one end and going absolutely nowhere on the other. Getting rid of them felt deeply satisfying. The new switches are connected to each other via stack cables, so as far as the network is concerned they're one big switch. Ryan handled the switch and DNS configurations, including pointing everything to a new IP.
+
+Oh, and the FHA Practice Manager brought donuts for us to enjoy! 

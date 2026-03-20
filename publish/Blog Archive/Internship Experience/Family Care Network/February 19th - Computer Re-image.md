@@ -5,15 +5,15 @@ tags:
 date: 2 / 19 / 26
 hours: "4.5"
 ---
-- Re-image computers that corrupted 
-	- One of the computers, when trying to install windows, there wasn't the main partition showing up > solve: checked the sata configuration bios setting and it was on the RAID option and switched it to AHCI mode.
-	- Make tickets for the imaged and re-imaged computers
-- Helped IT manager install his new monitor... and then helped him go back to his original setup.
-- Check up on remote computers that need to be updated
-- Visited FHA for IT support
-	- Installed new workstation
-		- Changed the name
-		- Had to change out the power supply > coincidently was searching this up before the visit, but apparently Lenovo has their own propriety power - known as the slim type connection with the yellow ring around it. 
-	- Fixed a dual monitor set up - one monitor wasn't displaying anything, but the issue was because both monitor were using the Display port input port- fix: change one of the monitors to be in the DP output and it worked
-	- Delivered a re-imaged laptop to a provider, changed the computer name from XXXXX-NEW to XXXXX
-- Cleaned up and organized our computer repair station
+Thursday was a full one. We started the day re-imaging some corrupted computers, which was routine until one of them decided to be difficult. During the Windows installation, the main partition was nowhere to be found. After some digging, the culprit was hiding in the BIOS. The SATA configuration was set to RAID mode instead of AHCI, which was enough to make the partition invisible to the installer. One setting change later and everything showed up exactly as it should. Filed that one away for future reference. Tickets were made for all the imaged and re-imaged machines.
+
+I helped the IT manager set up his new monitor, got everything looking good, and then helped him go back to his original setup. No notes.
+
+The afternoon took us out to the FHA for a little field work. First up was installing a new workstation, which came with a surprise: the power supply needed to be swapped out. As luck would have it, I had literally just been reading about Lenovo's proprietary power connectors before the visit. That slim tip with the yellow ring is a Lenovo signature, and knowing that ahead of time made the issue a lot less confusing. 
+
+*The infamous Slim Tip plug:*
+![[Pasted image 20260319220552.png]]
+
+We also sorted out a dual monitor setup where one screen wasn't displaying anything. Turns out both monitors were plugged into Display Port input ports. Switching one over to the DP output fixed it instantly.
+
+We also delivered a re-imaged laptop to a provider and renamed it from the temporary XXXXX-NEW format to its proper name. To close out the day we tidied up the computer repair station, because a clean workspace is a happy workspace! :)
