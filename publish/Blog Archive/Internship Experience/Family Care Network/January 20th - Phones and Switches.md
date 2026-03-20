@@ -5,13 +5,7 @@ tags:
 date: 1 / 20 / 26
 hours: "4.5"
 ---
-- provisioned more phones today - about 4 boxes done
-- started unboxing and setting up new Cisco switches. 
-	- learned about *stack cables* to connect the switches together
-- Shadowed system admin, Ryan, on adopting the switches to the network and configuring things like VLANs
-- got a tour of the network servers in our main building 
-
-Back at it with the phones. We provisioned about four more boxes today, which is starting to feel like a well-oiled routine at this point. Unbox, connect, boot, label, done. The Squalicum installation is going to go very smoothly at this rate!
+Back at it with the phones. We provisioned about four more boxes today, which is starting to feel like a well-oiled routine at this point. Unbox, connect, boot, label, done. The Lynden installation is going to go very smoothly at this rate!
 
 The more exciting part of the day was getting introduced to Cisco switches. We started unboxing and setting up a new batch, and that's where I learned about stack cables, which are used to link multiple switches together so they behave as a single unit. It's one of those concepts that sounds simple but clicks in a really satisfying way once you see it physically in front of you.
 

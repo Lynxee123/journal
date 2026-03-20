@@ -1,0 +1,3 @@
+This week gave me a much deeper look at how Family Care Network manages its network infrastructure and security. Watching Ryan configure the Cisco switches and walk through 802.1x and RADIUS authentication made it clear that FCN is really intentional about who and what gets access to their network. In a healthcare setting, that's not just good practice, it's essential. Every device, every port, every WiFi connection has a layer of thought behind it. It's not security for the sake of a checklist, it's security because the stakes are genuinely high.
+
+The Outlook contact situation was a good reminder too that IT solutions don't always come from the most obvious place. Sometimes the fix lives one layer up from where you're looking.
