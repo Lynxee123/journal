@@ -5,102 +5,18 @@ tags:
 date: 3 / 5 / 26
 hours: "4.5"
 ---
-shadowing VIr
+If Tuesday was seventy-eight phones, Thursday was a full on deep dive into what Vir, FCN's web admin, does day to day!
 
-Components:
-- Kuiper
-	- doesn't see anything that isn't EPIC
-- Citrix
-- VSphere
-- SystemPulse
-- Hyperspace
-- Hyperdrive
+The center of it all is EPIC, the electronic health record system that basically everything else orbits around. But what I didn't fully appreciate before today is just how much infrastructure it takes to keep EPIC running smoothly. There are fifteen different EPIC environments alone, including training, production, disaster recovery, and reporting. The reporting environment is its own thing because EPIC doesn't run on a traditional relational database, so Jeff (another EPIC administrator) manages a whole separate SQL setup just to format the data into usable reports. And because medical data is constantly changing, things like prescription records are ephemeral by design, getting wiped from reports every two to three days.
 
+Then there's the question of what happens when production goes down. FCN has that covered too. If prod is down but the network is up, clients can connect to a read-only version of Hyperspace through the reporting environment. If the internet itself is up but prod is down, there's BCA web as a fallback. Redundancy on top of redundancy, which makes a lot of sense when the alternative is a clinic that can't access patient records.
 
-- Kuiper > management
-	- different servders
-	- Jeff has a bunch of analytics
-	- EPIC Environments (15)
-		- training
-		- prod 
-			- DR
-			- Reporting (Jeff) > he manages SQL database for any kind of reporting
-			- basically epic doesn't run on a relational DB so you need to format it to make reports
-			- Data is very ephemeral > reports are deleted 2-3 days (e.g. a prescription could be changed)
-	- when prod env is down, cleints can use read only hyperspace > connect to RPT
-	- if prod down but internet up > can use BCA web
-	- Citrix > docker containers > when Hyperspace is open spins up container
-		- George manages Citrix and Hyperdrive
-- Hyper drive vs Hypersapce
-	- Hyperspace: opens a session, spins up container > passthrough of peripherals on the session
-	- Hyperdrive: local installation, used for exam rooms when multiple people use the same computer > doesn't have to keep switching profiles, it's just local profiles
+Hyperspace and Hyperdrive sound like they should be the same thing but they're actually solving different problems. Hyperspace opens a session on George's (another EPIC admin) servers and spins up a Citrix container with peripheral passthrough, great for most users. Hyperdrive is a local installation designed specifically for exam rooms where multiple providers share the same computer. Instead of constantly switching profiles through a session, everyone just uses local profiles. Clean solution for a very specific workflow.
 
-Client opens hyperspace > opens session on George's servers > connects to  Vir's web servers to use
-- all of vir's servers are IIS
+Citrix is the glue holding a lot of this together, providing a centralized place to manage and update everything, with a Netscaler ADC handling load balancing. Vir is currently working on implementing rate limiting and building out DoS attack protection for the Netscaler, which is running in a high availability pair. Vir's day to day is a mix of Tenable Nessus for endpoint management, support logs, checklists, and a couple of active projects including web BLOB storage migration.
 
-### Citrix
-- Loadbalancing > citrix netscaler
-### EPIC
-- Offers great support and documentaiton
-- Offers NOVA notes that offers details on new version of EPIC
-	- release notes: do they want it , critical? > have meeting w/ representives from PAD, EMR, providers to get their input
-- ECA - Epic Client Admins
-	- Web server Admin - VIr
-	- Hyperspace Admin - Groege
-- Epic Print Service - everyone prints through this and Vir and search print jobs, print history > good for troubleshooting
-- Epic Text - opens terminal > changes that haven't been migrated, mostly replaced by Kuiper
+New EPIC versions come with NOVA notes, and before anything gets pushed to production there's a whole meeting with representatives from different departments to decide what's critical, what's wanted, and what can wait. 
 
+Epic Print Service routes all printing through a central service that Vir can search and audit, which is a surprisingly powerful troubleshooting tool. Everything runs on VMware as the hypervisor underneath it all, with System Pulse keeping an eye on the health of the servers. And for security, FCN brings in a third party for penetration testing and audit reports through RSM.
 
-Use citrix to have a centralized place to update everything, part of EPIC
-
-BCA (business continuity access) web doesn't run on Ctrix
-
-Epic Satellite is a service that runs in the background of servers listening for commands sent by Kuiper or SystemPulse. This service runs on computers that communicate to Kuiper or SystemPulse (e.g. BCA computers)
-2 kuiper servers
-2 system pulse servers
-### troubleshooting
-sees a lot of data 
-- Kuiper
-- Citrix Director
-
-vmware > hypervisor
-- all servers run on this
-
-
-there's a lot of redundancy > if they only need 2-3 servers to run, they have 4 servers
-- System Pulse > monitoring
-
-
-VIR DAY TO DAY
-- Tenable Nessus (endpoint management)
-- Checklists
-- Support Logs (SLGs)
-- Current Projects
-	- Web BLOB storage
-	- Citrix Netscaler ADC (Load balancer)
-
-### Citrix Netscaler
-- implement rate limiting
-- in a high availability pair, but need to make something for DoS attacks
-- 
-
-KUIPER DASHBOARD
-
-Servers
-- BCA Web
-- Epic Print Service
-- Epic Care Link
-- Hyperspace Web
-- MyChart
-- Interconnect Groups - All EPIC communication is going through this
-	- BCA transfer, 
-
-tiered storage based on interaction time, after certain amount of time, storage will get deleted on the storage but stay on the cloud
-
-Audit
-- third party
-- pentesting and give them reports (RSM)
-
-
-good summary:
-tech support is the best :)
+All in all- out of everything that was mentioned, Vir made sure we understood: As IT professionals, having a separate ech support is the best.

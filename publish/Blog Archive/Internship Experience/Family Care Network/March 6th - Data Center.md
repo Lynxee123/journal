@@ -5,17 +5,10 @@ tags:
 date: 3 / 6 / 26
 hours: "8"
 ---
-- Visited data center (lunavi)
-	- 3 servers, two redundant
-	- cardboard isn't allowed in bc of the static!
-I talked to one of my instructors about it afterward and he gave insight that the data center used to have retina scanner instead of fingerprint, and the door you went into couldn't be exited through.
+Today, we went on a special kind of field trip! We visited Lunavi, FCN's data center, and it did not disappoint. The facility runs three servers with two being redundant, because in healthcare you do not mess around with uptime. One detail that stuck with me immediately: no cardboard allowed inside. Static electricity is no joke around that kind of hardware, and even a humble cardboard box is a liability.
 
-He told a funny story that if there was a late 2 am call that needed to be fix, and you happen to be out drinking or what not- you'd go through the first door with the key card, but then be trapped in the room bc the retina scan would fail bc eyes were dilated. 
+The security setup was fascinating too. Getting in requires a key card and fingerprint scan, which already feels serious. But when I mentioned the visit to one of my instructors afterward, he told me the data center used to do retina scanners instead of fingerprints, with a two door entry system where the door you came in through couldn't be exited the same way. The security logic makes sense until you hear the scenario he described: a late 2 AM emergency call, you've been out for the evening, you badge through the first door just fine, and then the retina scanner flags you because your eyes are dilated. Trapped. Between two doors. At 2 AM. Security so good it locks out its own administrators. Honestly kind of iconic.
 
-when we got back from the datacenter, it was more chill and conversational and had time to chat with the whole team. 
-- Asked the team some questions:
-	- What are their fav things about the job
-	- a lot of different perspectives from the manager, IT supervisor, sys admin, and help desk!
+When we got back to the office the energy shifted into something more relaxed and conversational, which was a really nice way to close out the week. I took the opportunity to ask the team about their favorite parts of the job and got a genuinely interesting range of answers across the IT manager, help desk supervisor, system admins, and the help desk team. Everyone came at it from a completely different angle depending on their role, which was a good reminder of how many different relationships with technology exist within one IT department.
 
-Derrick mentioned that they may be going to a new helpdesk > Desk365.io possibly
-
+There was also a mention they might be moving to a new help desk platform, Desk365.io.
